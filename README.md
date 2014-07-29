@@ -12,4 +12,4 @@ Page Builder go to "Create new Page", sometimes requires a couple of reloads for
 
 Assets Pages lets you pick up and modify assets
 
-Enjoy,
+Avoid Bugs and Enjoy,
