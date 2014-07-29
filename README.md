@@ -14,6 +14,8 @@ Assets Pages lets you pick up and modify assets, after add, scroll down to the b
 
 Warning: this is a dev environment in Amsterdam with frequent commits, restarts and crashes.
 
+We haven't optimized for mobile yet, so don't bother.
+
 Avoid Bugs and Enjoy,
 
 https://twitter.com/jerryfilipiak
