@@ -16,6 +16,8 @@ Warning: this is a dev environment in Amsterdam with frequent commits, restarts 
 
 We haven't optimized for mobile yet, so don't bother.
 
+Check here often for updates.
+
 Avoid Bugs and Enjoy,
 
 https://twitter.com/jerryfilipiak
