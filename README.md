@@ -8,7 +8,7 @@ Htaccess: soi / 8V#z.r!
 
 Journeys are WIP
 
-Page Builder go to "Create new Page", sometimes requires a couple of reloads for the drag and drop to load
+Page Builder go to "Create new Page", draw containers in workspace, then drop in assets, sometimes requires a couple of reloads for the drag and drop to load, working on it.
 
 Assets Pages lets you pick up and modify assets, after add, scroll down to the bottom of the list and click the edit button, then scroll down to the bottom again. Compatibility is still limited.
 
