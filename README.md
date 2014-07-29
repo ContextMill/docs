@@ -10,7 +10,7 @@ Journeys are WIP
 
 Page Builder go to "Create new Page", sometimes requires a couple of reloads for the drag and drop to load
 
-Assets Pages lets you pick up and modify assets
+Assets Pages lets you pick up and modify assets, after add, scroll down to the bottom of the list and click the edit button, then scroll down to the bottom again. Compatibility is still limited.
 
 Warning: this is a dev environment in Amsterdam with frequent commits, restarts and crashes.
 
